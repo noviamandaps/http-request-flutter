@@ -1,6 +1,8 @@
 # http_request
 
 A new Flutter project.
+Preview 
+![image](https://user-images.githubusercontent.com/100067693/235435453-daa816ff-9f62-483b-a875-ed5d5bea701b.png)
 
 ## Getting Started
 
